@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+svg {
+  border: 1px solid black; margin-top: 100px;
+}
+
+.titulo {
+  font-size: 60px;
+  font-style: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.bar:hover{
+  fill: black;
+}
+.bar{
+  z-index: 9999;
+}
+
+
